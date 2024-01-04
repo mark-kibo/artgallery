@@ -1,2 +1,9 @@
 # artgallery_with_django
-This is an art gallery project built using django.Admins get to upload their art via th upload page for users to review. 
+This art gallery project, developed using Django, allows administrators to upload artwork through the dedicated upload page. Users can then explore and review the uploaded art, creating an interactive and engaging platform for art enthusiasts.
+
+
+
+
+
+
+
